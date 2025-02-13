@@ -1,0 +1,8 @@
+.two-columns {
+    display: flex;
+    flex-wrap: flex;
+}
+.two-columns li {
+    width: auto;
+    box-sizing: border-box;
+}
